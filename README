@@ -1,0 +1,5 @@
+This is an algorithm that counts cars on a given avenue. This project does not use AI, so there may be errors in the count
+
+
+pip install opencv-contrib-python
+pip install opencv-python
